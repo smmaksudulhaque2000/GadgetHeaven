@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://i.ibb.co.com/WWpBCCtC/Screenshot-1.png" height="400" alt="GadgetHeaven"/>
+</div>
+
 # GadgetHeaven ✨
 
 Your ultimate destination for the latest and most innovative gadgets! GadgetHeaven is a fully responsive e-commerce platform designed for users to explore, purchase, and manage a wishlist of various gadgets. The project is meticulously crafted following a detailed Figma design, incorporating an intuitive navigation system, categorized product listings, individual product detail pages, and seamless shopping functionalities.
