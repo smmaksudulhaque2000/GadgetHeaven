@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.ibb.co.com/WWpBCCtC/Screenshot-1.png" height="400" alt="GadgetHeaven"/>
+  <img src="https://i.ibb.co.com/WWpBCCtC/Screenshot-1.png" height="400" width="800" alt="GadgetHeaven"/>
 </div>
 
 # GadgetHeaven ✨
